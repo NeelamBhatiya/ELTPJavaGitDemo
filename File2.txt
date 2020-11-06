@@ -1,2 +1,3 @@
 Welcome to gt demo
 bye bye birdy
+Check tht how done work can be storedin stash
