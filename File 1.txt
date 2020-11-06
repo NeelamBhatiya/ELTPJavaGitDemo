@@ -1,5 +1,5 @@
 HHello World!!
 Change for 
 Change for loging featire
-chage 1 for loging
-chane 2 for bug
+change 1- for loging
+change 2- for bug
